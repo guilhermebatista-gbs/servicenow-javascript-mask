@@ -1,7 +1,5 @@
 # Input Masks for ServiceNow Service Catalog & Record Producers
 
-# Input Masks for ServiceNow Service Catalog & Record Producers
-
 Add real-time input formatting to ServiceNow Service Portal fields using [iMask.js](https://imask.js.org/) — a lightweight, dependency-free JavaScript masking library.
 
 > **No native support?** ServiceNow doesn't provide built-in input masking for catalog variables. This guide shows you how to implement it using iMask.js with Catalog Client Scripts.
@@ -539,6 +537,10 @@ top.document.getElementById('sp_formfield_phone_number')
 
 This documentation is provided as-is for educational purposes. iMask.js is licensed under the [MIT License](https://github.com/uNmAnNeR/imaskjs/blob/master/LICENSE).
 
+---
+
+**Author:** Guilherme Batista da Silva  
+**ServiceNow Developer** | ServiceNow Rising Star 2024 & 2025 | ITSM | CSM | App Engine
 ---
 
 **Author:** Guilherme Batista da Silva  
